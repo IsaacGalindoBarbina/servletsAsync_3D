@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="servletsAsync_3D:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>servletsAsync_3D</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="servletsAsync_3D-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="servletsAsync_3D:war exploded" />
+    </root>
+  </artifact>
+</component>
